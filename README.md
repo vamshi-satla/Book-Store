@@ -1,6 +1,6 @@
 **Book-Store**
-E-Commerce Website
-Description This project is an e-commerce website built using HTML, CSS, and JavaScript. It allows users to browse products, add items to their cart, and complete purchases. project website link
+**E-Commerce Website Description** 
+This project is an e-commerce website built using HTML, CSS, and JavaScript. It allows users to browse products, add items to their cart, and complete purchases. project website link
 https://vamshi-satla.github.io/Book-Store/
 
 **Installation**
